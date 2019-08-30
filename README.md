@@ -33,9 +33,11 @@ This repository provides Simulation of Peaucellier Mechanism based C/C++ languag
 make
 ./peaucellier.o
 ```
-
-
 ### Compile and run (Windows)
 - Using IDE to use C++ with Opencv and run main.cpp
 
+# Simulation Piston Alternative Air Compressor
+Simulation Piston Alternative Air Compressor
+
+![](resources/images/compressor.gif)
 
