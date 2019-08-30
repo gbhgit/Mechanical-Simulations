@@ -1,6 +1,6 @@
 # Mechanical-Simulations
 
-# Simulation of Heat Transfer in a Fin
+## Simulation of Heat Transfer in a Fin
 (English) Simulation of Heat Transfer in a Fin, using finite volumes.
 (PtBr) Simulação de transferência de calor em uma aleta, usando volumes finitos.
 
@@ -15,7 +15,7 @@ Results that plot map of temperature that **blue is more cold** and **red is mor
 
 ![](Fin%20Heat%20Transfer/resources/results.png)
 
-# Mechanical Peaucellier Mechanism Simulation
+## Mechanical Peaucellier Mechanism Simulation
 Simulation of Peaucellier Mechanism repository, using Opencv library to render simulation.
 
 ## Getting Started
